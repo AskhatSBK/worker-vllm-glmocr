@@ -1,9 +1,9 @@
 variable "DOCKERHUB_REPO" {
-  default = "runpod"
+  default = "AskhatSBK"
 }
 
 variable "DOCKERHUB_IMG" {
-  default = "worker-v1-vllm"
+  default = "worker-vllm-glmocr"
 }
 
 variable "RELEASE_VERSION" {
